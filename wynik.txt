@@ -1,0 +1,6 @@
+Liczby parzyste: 504
+Takie same: 110
+Same zera: 504
+Same jedynki: 32
+Koncem jest jedynka: 50
+Palindromy: 149
